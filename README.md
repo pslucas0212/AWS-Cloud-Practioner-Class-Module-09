@@ -19,13 +19,13 @@ AWS consulting services has created the AWS Cloud Adoption Framework (AWS CAF) t
 
 AWS CAF Perspectives
 - Business Capabilites
--- Business
--- People
--- Governance
+ - Business
+ - People
+ - Governance
 - Technical capabilites
--- Platform
--- Security
--- Operations
+ - Platform
+ - Security
+ - Operations
 
 Crate AWS CAF action plan.
 
